@@ -1,0 +1,3 @@
+interface DocumentPrototype {
+    DocumentPrototype cloneDocument();
+}
